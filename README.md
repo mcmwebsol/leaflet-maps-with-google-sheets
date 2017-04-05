@@ -10,7 +10,7 @@ Create Leaflet maps with a linked Google Sheets template.
 
 ## Demo
 - Leaflet Map https://mcmwebsol.github.io/leaflet-maps-with-google-sheets/
-- Google Sheet template https://docs.google.com/spreadsheets/d/1zx9RfFSLrEPCRtmhXAVzhHi-FxFGhSRDQIlwyZLio4E/pubhtml
+- Google Sheet template https://docs.google.com/spreadsheets/d/1q7ACs0MOQQz_IQLhgjg8roeLz95aD_g_d5jHwvbnMJc/edit#gid=745832354
 
 ## BETA version
 - Report bugs and suggest features in [Issues](https://github.com/JackDougherty/leaflet-maps-with-google-sheets/issues)
